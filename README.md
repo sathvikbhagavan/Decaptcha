@@ -1,6 +1,6 @@
 # Decaptcha
 
-Assignment-3 of CS771A - Introduction to Machine Learning - IITK 2019-20 Sem-I
+Assignment-3 of CS771A - Introduction to Machine Learning - Indian Institute of Technology, Kanpur - 2019-20 Sem-I
 
 This Project is about recognizing the text written in a captcha image (only upper case english alphabets)
 
